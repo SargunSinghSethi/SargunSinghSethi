@@ -61,7 +61,7 @@ As a passionate Computer Science student, I'm on a mission to develop innovative
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,aws,kubernetes,gcp,terraform,jenkins,githubactions,gitlarun"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker,aws"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
