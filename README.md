@@ -11,7 +11,7 @@ As a passionate Computer Science student, I'm on a mission to develop innovative
 
 
   - 🔭 I’m currently diving deep into DevOps, aiming to master the art of building seamless, scalable, and secure applications.
-  - 🌱 🌱 I’m sharpening my skills in Next.js, Redux Toolkit, AWS services, and cloud infrastructure.
+  - 🌱 I’m sharpening my skills in Next.js, Redux Toolkit, AWS services, and cloud infrastructure.
   - 💬 Ask me about JavaScript, TypeScript, React, Next.js, Node.js, Express.js, Prisma, AWS (EC2, RDS, Amplify, API Gateway, S3), PostgreSQL, MongoDB, Tailwind CSS, Material UI, Docker, Linux, Git, and CI/CD pipelines.
   - ⚡ Fun fact: I love exploring new technologies, and when I'm not studying or coding, you'll find me playing video games, listening to music, or watching movies.
 
