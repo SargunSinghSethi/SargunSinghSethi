@@ -23,7 +23,7 @@ As a passionate Computer Science student, I'm on a mission to develop innovative
 </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RResabala2015&label=Profile%20views&color=0e75b6&style=flat" alt="SargunSinghSethi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SargunSinghSethi&label=Profile%20views&color=0e75b6&style=flat" alt="SargunSinghSethi" /> </p>
 
 
 ------
