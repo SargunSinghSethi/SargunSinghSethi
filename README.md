@@ -53,7 +53,7 @@ As a passionate Computer Science student, I'm on a mission to develop innovative
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nextjs,react,mui,bootstrap,tailwindcss,html,css,js,ts,figma"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=nextjs,react,mui,bootstrap,tailwindcss,html,css,js,ts,figma,redux"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
@@ -73,7 +73,7 @@ As a passionate Computer Science student, I'm on a mission to develop innovative
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=postman,bash"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=postman,prisma,bash"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
