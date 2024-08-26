@@ -29,7 +29,7 @@ As a passionate Computer Science student, I'm on a mission to develop innovative
 ------
 <h3 align="left">Activity:</h3>
 
-[![SargunSinghSethi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SargunSinghSethi&bg_color=001338&color=adb1f0&line=8fabd6&point=5257ff&area=true&hide_border=true)]([![SargunSinghSethi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SargunSinghSethi&bg_color=001338&color=adb1f0&line=8fabd6&point=5257ff&area=true&hide_border=true)]
+[SargunSinghSethi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SargunSinghSethi&bg_color=001338&color=adb1f0&line=8fabd6&point=5257ff&area=true&hide_border=true)]
 
 <div align="center">
   <a href="https://github.com/SargunSinghSethi">
