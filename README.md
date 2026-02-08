@@ -34,8 +34,8 @@ As a passionate Computer Science student, I'm on a mission to develop innovative
 
 <div align="center">
   <a href="https://github.com/SargunSinghSethi">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=SargunSinghSethi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="SargunSinghSethi"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SargunSinghSethi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="SargunSinghSethi"/>
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SargunSinghSethi&layout=compact&theme=tokyonight" alt="SargunSinghSethi"/>
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=SargunSinghSethi&show_icons=true&theme=tokyonight" alt="SargunSinghSethi"/>
   </a>
 </div>
 <p align="center">
